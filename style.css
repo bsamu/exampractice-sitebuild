@@ -154,6 +154,8 @@ h2 {
 
 button .arrow {
   font-size: 36px;
+  position: absolute;
+  right: 5px;
 }
 
 button .details {
